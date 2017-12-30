@@ -1,2 +1,4 @@
-# sample
-Kocaeli university open source lab yii2 sample module
+#Slideshow
+
+Hocam projeyi calistiramadim, veritabanina baglanirken bir hata veriyor, cozemedim. Diger kodlar 
+index ve connection'de.
